@@ -9,7 +9,7 @@ HBInitFactory().then((HBInit) => {
     public: true,
     noPlayer: true,
     geo: { code: "br", lat: -23.55, lon: -46.63 },
-    token: "thr1.AAAAAGpsnVhRQEddgvjAGg.CeE6KrO4MBI"
+    token: "thr1.AAAAAGpsoE4hOApEAzKlYA.9uCMr2EFhNw"
   });
 
   let possessionPlayer = null;
